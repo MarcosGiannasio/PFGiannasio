@@ -1,6 +1,5 @@
-# PreEntrega3Giannasio
+# Proyecto Final Giannasio
 
-## Tercera pre entrega del proyecto relacionado con el curso de Desarrollo Web.
-## Incorporación de sass y SEO / Buenas prácticas al proyecto
+## Corresponde a la última entrega relacionada con el curso de Desarrollo Web.
 
 Autor **Marcos Giannasio**
